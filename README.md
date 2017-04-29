@@ -1,2 +1,8 @@
 # andri-sasuke-me
-My personal website profile
+My personal landing page profile
+
+### How to deploy to firebase hosting:
+
+- $: firebase login
+- $: firebase init
+- $: firebase deploy
